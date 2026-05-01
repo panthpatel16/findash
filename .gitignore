@@ -1,0 +1,30 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+.mvn/
+.settings/
+.classpath
+.project
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
